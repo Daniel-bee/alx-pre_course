@@ -1,2 +1,1 @@
-*Emphasize* _emphasize_
-**Strong** __emphasize__
+This is first time update from GitHub.
